@@ -1,0 +1,3 @@
+/home/suhailps/catkin_ws/Point-Cloud-Experiments/ASUS/build/CMakeFiles/edit_cache.dir
+/home/suhailps/catkin_ws/Point-Cloud-Experiments/ASUS/build/CMakeFiles/openniViewer.dir
+/home/suhailps/catkin_ws/Point-Cloud-Experiments/ASUS/build/CMakeFiles/rebuild_cache.dir
